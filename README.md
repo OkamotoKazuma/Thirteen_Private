@@ -1,0 +1,2 @@
+# Thirteen_Private
+チーム制作Thirteenを個人で作り直すためのリポジトリ
